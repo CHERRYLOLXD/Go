@@ -1,2 +1,2 @@
 # Go
-Some go code
+Some go projects
