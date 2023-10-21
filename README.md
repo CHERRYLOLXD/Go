@@ -1,3 +1,3 @@
 # Go
 
-Some go projects
+Some Go projects
